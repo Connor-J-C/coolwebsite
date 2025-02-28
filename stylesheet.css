@@ -1,11 +1,18 @@
 body {
-text-align: center; background-color: grey;
+background-color: grey;
 }
 
 h1 {
-color: blue; font-size: 60;
+text_align: center; color: blue; font-size: 60;
 }
 
 p {
-font-size: 60; color: #ADD8E6;
+font-size: 28; color: #ADD8E6;
 }
+
+h2 {
+text_align: center; color: green; font-size: 40;
+}
+
+p2 {
+font-size: 18; color: red; 
